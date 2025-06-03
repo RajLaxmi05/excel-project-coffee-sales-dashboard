@@ -22,4 +22,4 @@ An Excel-based dashboard project to analyze and visualize coffee sales data.
 ---
 
 ### 📁 File
-- `CoffeeSalesProject.xlsx`: Contains cleaned dataset and fully functional dashboard
+- `CoffeeSalesProject.xlsx`: Fully functional dashboard
